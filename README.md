@@ -284,13 +284,7 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 
-<h1>Output:</h1>
 
-![Screenshot 2025-04-26 203311](https://github.com/user-attachments/assets/15471745-3d4f-4033-8141-705a8013ef6a)
-
-
-
-![image](https://github.com/user-attachments/assets/dd4327ec-3c97-4099-969c-368fe9a2474f)
 
 ## OUTPUT:
 <img width="624" height="615" alt="image" src="https://github.com/user-attachments/assets/117801a2-0d57-4cd2-a7c8-d18ffd2c51e4" />
